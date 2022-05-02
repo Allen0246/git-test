@@ -3,7 +3,7 @@ public class first {
         osszeadas(3,5);
         System.out.println("valami");
     }
-    public static int osszeadas(int a, int b){
+    public static int osszeadas(String a, String b){
         return a+ b;
     }
 }
